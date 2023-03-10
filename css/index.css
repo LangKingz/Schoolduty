@@ -80,3 +80,16 @@
     margin-bottom: 30px;
 }
 
+nav a:hover {
+    color: #fff;
+    font-weight: 600;
+    background-color: #4f93f2;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+}
+
+nav a .active {
+    color: #fff;
+    font-weight: 600;
+
+}
